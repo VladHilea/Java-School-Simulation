@@ -1,7 +1,7 @@
+#School Simulation project
 Hilea Vlad George
-CourseWork for programming 1
+This was my first big OOP project
 
-I have finished all the 6 parts of this coursework and all of them work succesuflly.
 In order to run the program you have to write 2 arguments on the command line: file, number of days.
 Example java Administrator mySchool.txt 200
 
